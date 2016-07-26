@@ -1,6 +1,15 @@
-BinarySearch
+// BinarySearch
+
 #include <iostream>
 using namespace std;
+
+
+
+/* Implement the binary search
+Use bubble sorting
+Find the number of elements */
+
+
 
 // Tri diagonal matrix
 // 3 2 0 0 0
@@ -244,7 +253,6 @@ bool MatrixChecker::isTriDiagonal(void){
 
 // SearchInArray
 
-
 class SearchInArray
 {
 //function called search
@@ -257,10 +265,6 @@ class SearchInArray
   //funcions for different implementation strategy for sorting: different sorting algorithm
   
   // people dont need to know our searching algorithm: making a blackbox with only input and output feature.
-  
-  
-  
-  
   
   
   
@@ -419,13 +423,9 @@ else
   for (int i=mid;i<n;i++)
    {
     
-  ////search in this area. for the number
-    //yo baby
+    ////search in this area. for the number
     
   }
-  
-  
-  
   
   return 0;
    
