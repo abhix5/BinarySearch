@@ -417,11 +417,10 @@ else
   //if counter==0
   
   for (int i=mid;i<n;i++)
+   {
     
-  {
-    
-  //search in this area. for the number
-    
+  ////search in this area. for the number
+    //yo baby
     
   }
   
@@ -431,5 +430,4 @@ else
   return 0;
    
 }
-  
   
