@@ -22,7 +22,6 @@ Find the number of elements */
 // int arr[2][2] = {  
 // };
 
-// Identity matrix
   
  
 // Figure out the size of array given
